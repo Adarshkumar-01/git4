@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 ertyuiolkjhgf
-fdsdfg
+fdsdihhfg
 Adssg
+=======
+dgsfhdnvbhsdgvgsdg
+sdhyj
+hrdh
+dfghj
+cv
+fhjk
+ghjk
+>>>>>>> 2c1e2e1 (addedback)
